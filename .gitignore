@@ -1,2 +1,8 @@
 classic/
 template_60010_ee33fjeeH500Lii2f22r.zip
+_libraries/ 
+.htaccess core.js 
+debug.tpl 
+index.php 
+javascript.tpl 
+package-lock.json
