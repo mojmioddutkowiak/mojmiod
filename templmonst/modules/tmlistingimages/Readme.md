@@ -1,1 +1,0 @@
-# TemplateMonster Listing Images

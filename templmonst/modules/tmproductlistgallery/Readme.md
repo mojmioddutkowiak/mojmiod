@@ -1,1 +1,0 @@
-# TemplateMonster Product List Gallery
