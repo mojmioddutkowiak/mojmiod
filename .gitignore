@@ -1,7 +1,10 @@
 classic/
+templmonst/
+classic.zip
 template_60010_ee33fjeeH500Lii2f22r.zip
 _libraries/ 
-.htaccess core.js 
+.htaccess 
+core.js 
 debug.tpl 
 index.php 
 javascript.tpl 
